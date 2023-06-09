@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactApp/static/css/main.61f4fe55.css",
+    "main.js": "/reactApp/static/js/main.42dd4360.js",
+    "static/media/hero-bg.jpg": "/reactApp/static/media/hero-bg.c73bfdefbcbeaf1b73ec.jpg",
+    "static/media/about.jpg": "/reactApp/static/media/about.ab80283d6ddac3f4aa33.jpg",
+    "static/media/boxicons.svg": "/reactApp/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/reactApp/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/testimonials-bg.jpg": "/reactApp/static/media/testimonials-bg.2cedb539c554cb13a1b6.jpg",
+    "static/media/cta-bg.jpg": "/reactApp/static/media/cta-bg.63b483a22e14db81b62a.jpg",
+    "static/media/boxicons.woff": "/reactApp/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/reactApp/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/team-1.jpg": "/reactApp/static/media/team-1.2acee0790ff3552d4d15.jpg",
+    "static/media/bootstrap-icons.woff?": "/reactApp/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/reactApp/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/boxicons.woff2": "/reactApp/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/counts-img.jpg": "/reactApp/static/media/counts-img.094a7e63c0e77f9bf822.jpg",
+    "static/media/team-2.jpg": "/reactApp/static/media/team-2.b2008acdf74612d89b8f.jpg",
+    "static/media/team-3.jpg": "/reactApp/static/media/team-3.ca581ae1628e295ec2a0.jpg",
+    "static/media/team-4.jpg": "/reactApp/static/media/team-4.525dee063b26d6a44d1d.jpg",
+    "static/media/Accesssystem.png": "/reactApp/static/media/Accesssystem.dea7f41ae3412bb7177d.png",
+    "index.html": "/reactApp/index.html",
+    "main.61f4fe55.css.map": "/reactApp/static/css/main.61f4fe55.css.map",
+    "main.42dd4360.js.map": "/reactApp/static/js/main.42dd4360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f4fe55.css",
+    "static/js/main.42dd4360.js"
+  ]
+}
